@@ -1,0 +1,3130 @@
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10
+[ERROR] Invalid input! Enter a number between 1 and 10.
+[ERROR] Invalid input! Enter a number between 1 and 10.
+[ERROR] Custom placement unavailable.
+[ERROR] Invalid input! Enter a number between 1 and 10.
+[ERROR] Invalid input! Enter a number between 1 and 10.
+[ERROR] Invalid input! Enter a number between 1 and 10.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Invalid input! Enter a number between 1 and 10.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Invalid input! Enter a number between 1 and 10.
+[ERROR] Invalid input! Enter a number between 1 and 10.
+[ERROR] Invalid input! Enter a number between 1 and 10.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[ERROR] Cannot index used coordinate list if none are present.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[ERROR] Cannot index used coordinate list if none are present.
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[ERROR] Cannot index used coordinate list if none are present.
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[ERROR] Cannot index used coordinate list if none are present.
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[ERROR] Cannot index used coordinate list if none are present.
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[ERROR] Cannot index used coordinate list if none are present.
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[ERROR] Cannot index used coordinate list if none are present.
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[ERROR] Cannot index used coordinate list if none are present.
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[ERROR] Cannot index used coordinate list if none are present.
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[ERROR] Cannot index used coordinate list if none are present.
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] User has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Battleships have been placed randomly.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Game over.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Game over.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Game over.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Battleships have been placed randomly.
+[Info] Battleships have been placed according to a placment.config file.
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: HIT
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: MISS
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Attack has been registered: HIT
+[INFO] AI has input coordinates.
+[INFO] Attack has been registered: MISS
+[INFO] Game over.
